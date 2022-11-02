@@ -1,0 +1,8 @@
+npx @sanity/cli start - to run Sanity Studio
+npx @sanity/cli docs - to open the documentation in a browser
+npx @sanity/cli manage - to open the project settings in a browser
+npx @sanity/cli help - to explore the CLI manual
+
+هذا هو موقع التحكم ب قاعده البيانات
+
+https://shareme-castle.sanity.studio/
